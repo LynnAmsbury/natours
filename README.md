@@ -6,4 +6,4 @@ The beginning involves creating a header using properties such as clip-path, tra
 
 The second section contains lectures on how CSS works behind the scenes and about good coding principles, including a discussion about writing code that conforms to Block__Element--Modifier (BEM) methodology.
 
-The third section is an introduction to SCSS/Sass and npm. Node-sass is a developer dependency and live-server is used to display the page.
+The third section is an introduction to SCSS/Sass and npm. The project uses node-sass as a developer dependency and live-server to display the page.
