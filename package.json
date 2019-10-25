@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Project 1 in Jonas Schmedtmann's advanced CSS and Sass course",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynnAmsbury/natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnAmsbury/natours/issues"
+  },
+  "homepage": "https://github.com/LynnAmsbury/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
