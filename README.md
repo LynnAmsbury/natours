@@ -10,4 +10,4 @@ The third section is an introduction to SCSS/Sass and npm. The project uses two 
 
 After refactoring the Natours code to use SCSS, BEM principles, and DRY principles we create an organizational file system for the SCSS code and move code into the appropriate folders and subfolders.
 
-We then continue building the Natours website using a float layout with a grid. The About section uses WebKit-background-clip and skew to create a unique heading. There is also another animated button and images that animate on hover. The Features section includes animated information-boxes.
+We then continue building the Natours website using a float layout with a grid. The About section uses WebKit-background-clip and skew to create a unique heading. There is also another animated button and images that animate on hover. The Features section includes animated information-boxes, as does the Tours section. We also use background-blend-mode to blend a linear color gradient with images.
