@@ -15,3 +15,5 @@ We then continue building the Natours website using a float layout with a grid. 
 The Stories section used the shape-outside property to make text float around a circular image, and the object-fit property adds an opaque background video - a really stunning effect!
 
 The Booking section features a solid linear gradient between a form and an image, some animation effects on a form, and customized, styled radio buttons.
+
+The Navigation section covers how to build an animated navigation button and menu using the "checkbox hack," cubic bezier curves, and animated solid color gradients.
